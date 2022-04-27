@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rcs20\source\repos\SFML_Game_Cpts122PA9\SFML_Game_Cpts122PA9\</FILEPATH>
+      <FILENAME>Projectile2.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Projectile2::textureMissile' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Projectile2::{ctor}</FUNCTION>
+    <DECORATED>??0Projectile2@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Projectile2::textureMissile</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rcs20\source\repos\SFML_Game_Cpts122PA9\SFML_Game_Cpts122PA9\</FILEPATH>
+      <FILENAME>Projectile2.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Projectile2::movementSpeed' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Projectile2::{ctor}</FUNCTION>
+    <DECORATED>??0Projectile2@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Projectile2::movementSpeed</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rcs20\source\repos\SFML_Game_Cpts122PA9\SFML_Game_Cpts122PA9\</FILEPATH>
+      <FILENAME>Projectile2.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Projectile2::textureMissile' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Projectile2::{ctor}</FUNCTION>
+    <DECORATED>??0Projectile2@@QAE@PAVTexture@sf@@MMMMM@Z</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Projectile2::textureMissile</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

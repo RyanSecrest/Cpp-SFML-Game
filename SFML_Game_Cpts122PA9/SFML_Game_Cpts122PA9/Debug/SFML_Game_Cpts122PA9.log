@@ -1,0 +1,19 @@
+﻿  Enemy.cpp
+  Game.cpp
+C:\Users\rcs20\source\repos\SFML_Game_Cpts122PA9\SFML_Game_Cpts122PA9\Game.cpp(247,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rcs20\source\repos\SFML_Game_Cpts122PA9\SFML_Game_Cpts122PA9\Game.cpp(294,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rcs20\source\repos\SFML_Game_Cpts122PA9\SFML_Game_Cpts122PA9\Game.cpp(341,20): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+C:\Users\rcs20\source\repos\SFML_Game_Cpts122PA9\SFML_Game_Cpts122PA9\main.cpp(50,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Menu.cpp
+  Player.cpp
+  Projectile.cpp
+  Projectile2.cpp
+  Compiling...
+  Generating Code...
+  SFML_Game_Cpts122PA9.vcxproj -> C:\Users\rcs20\source\repos\SFML_Game_Cpts122PA9\Debug\SFML_Game_Cpts122PA9.exe
+C:\Users\rcs20\source\repos\SFML_Game_Cpts122PA9\SFML_Game_Cpts122PA9\Enemy.cpp(173): warning C26495: Variable 'EnemyFinal::type' is uninitialized. Always initialize a member variable (type.6).
+C:\Users\rcs20\source\repos\SFML_Game_Cpts122PA9\SFML_Game_Cpts122PA9\Projectile.cpp(4): warning C26495: Variable 'Projectile::texture' is uninitialized. Always initialize a member variable (type.6).
+C:\Users\rcs20\source\repos\SFML_Game_Cpts122PA9\SFML_Game_Cpts122PA9\Projectile.cpp(9): warning C26495: Variable 'Projectile::texture' is uninitialized. Always initialize a member variable (type.6).
+C:\Users\rcs20\source\repos\SFML_Game_Cpts122PA9\SFML_Game_Cpts122PA9\Projectile2.cpp(3): warning C26495: Variable 'Projectile2::textureMissile' is uninitialized. Always initialize a member variable (type.6).
+C:\Users\rcs20\source\repos\SFML_Game_Cpts122PA9\SFML_Game_Cpts122PA9\Projectile2.cpp(7): warning C26495: Variable 'Projectile2::textureMissile' is uninitialized. Always initialize a member variable (type.6).

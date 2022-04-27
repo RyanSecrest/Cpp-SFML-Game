@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rcs20\source\repos\SFML_Game_Cpts122PA9\SFML_Game_Cpts122PA9\</FILEPATH>
+      <FILENAME>Enemy.cpp</FILENAME>
+      <LINE>173</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'EnemyFinal::type' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>EnemyFinal::{ctor}</FUNCTION>
+    <DECORATED>??0EnemyFinal@@QAE@XZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>EnemyFinal::type</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rcs20\source\repos\SFML_Game_Cpts122PA9\SFML_Game_Cpts122PA9\</FILEPATH>
+      <FILENAME>Enemy.cpp</FILENAME>
+      <LINE>173</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'EnemyFinal::healthMax' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>EnemyFinal::{ctor}</FUNCTION>
+    <DECORATED>??0EnemyFinal@@QAE@XZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>EnemyFinal::healthMax</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rcs20\source\repos\SFML_Game_Cpts122PA9\SFML_Game_Cpts122PA9\</FILEPATH>
+      <FILENAME>Enemy.cpp</FILENAME>
+      <LINE>173</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'EnemyFinal::health' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>EnemyFinal::{ctor}</FUNCTION>
+    <DECORATED>??0EnemyFinal@@QAE@XZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>EnemyFinal::health</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rcs20\source\repos\SFML_Game_Cpts122PA9\SFML_Game_Cpts122PA9\</FILEPATH>
+      <FILENAME>Enemy.cpp</FILENAME>
+      <LINE>173</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'EnemyFinal::damage' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>EnemyFinal::{ctor}</FUNCTION>
+    <DECORATED>??0EnemyFinal@@QAE@XZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>EnemyFinal::damage</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rcs20\source\repos\SFML_Game_Cpts122PA9\SFML_Game_Cpts122PA9\</FILEPATH>
+      <FILENAME>Enemy.cpp</FILENAME>
+      <LINE>173</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'EnemyFinal::points' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>EnemyFinal::{ctor}</FUNCTION>
+    <DECORATED>??0EnemyFinal@@QAE@XZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>EnemyFinal::points</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

@@ -1,0 +1,2 @@
+C:\Users\rcs20\source\repos\SFML_Game_Cpts122PA9\Debug\SFML_Game_Cpts122PA9.exe.lastcodeanalysissucceeded
+C:\Users\rcs20\source\repos\SFML_Game_Cpts122PA9\SFML_Game_Cpts122PA9\Debug\NativeCodeAnalysis.read.1.tlog
